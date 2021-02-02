@@ -1,0 +1,27 @@
+.coin-container {
+  display: flex;
+}
+
+.coin {
+  border: 1px solid black;
+  border-radius: 50%;
+  background-color: rgba(94, 88, 87, 0.925);
+}
+
+.light-container {
+  margin-top: 50px;
+}
+
+.light-bulb {
+  border-radius: 10px;
+  border: 1px solid black;
+  width: 200px;
+}
+
+.light-on {
+  background-color: yellow;
+}
+
+.light-off {
+  background-color: gray;
+}
